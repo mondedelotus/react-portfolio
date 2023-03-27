@@ -13,7 +13,7 @@ const Footer = () => {
                     <li className="social__item"><a href="#!"><img src={linkedin} alt="Link" /></a></li>
                 </ul>
                 <div className="copyright">
-                    <p>© 2023 serhiogoa</p>
+                    <p>© 2023 mondedelotus</p>
                 </div>
             </div>
         </div>
