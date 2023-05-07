@@ -17,6 +17,7 @@ const Project = () => {
                     </a>
 
                     <div className="project-details__desc">
+                        <p class="desc-title">Technologies</p> 
                         <p>{ project.skills }</p>
                     </div>
 

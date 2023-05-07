@@ -193,6 +193,11 @@ body {
 	line-height: 1.3;
 }
 
+.desc-title {
+	margin-bottom: 10px;
+	color: var(--title-1);
+}
+
 /* Content list */
 
 .content-list {
