@@ -11,15 +11,15 @@ const Home = () => {
                     <ul className="content-list">
                         <li className="content-list__item">
                             <h2 className="title-2">Skills</h2>
-                            <p>CMS Wordpress, HTML, CSS, JavaScript, VueJS, Vuetify, PHP, Git, Redmine, Google Tag Manager, Google Apps Script, AtomicCSS
+                            <p>CMS Wordpress, HTML, CSS, JavaScript, VueJS, PHP, Git, Redmine, Google Tag Manager, Google Apps Script, AtomicCSS
 </p>
                         </li>
-                        <li className="content-list__item">
+                        {/* <li className="content-list__item">
                             <h2 className="title-2">In learning</h2>
                             <p>ReactJS</p>
-                        </li>
+                        </li> */}
                         <li className="content-list__item">
-                            <h2 className="title-2">Want to try</h2>
+                            <h2 className="title-2">Want to learn</h2>
                             <p>NodeJS</p>
                         </li>
                     </ul>
