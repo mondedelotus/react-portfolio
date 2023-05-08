@@ -1,1 +1,1 @@
-https://mondedelotus.github.io/portfolio/
+https://mondedelotus.github.io/react-portfolio/
