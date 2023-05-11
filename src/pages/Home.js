@@ -11,8 +11,8 @@ const Home = () => {
                     <ul className="content-list">
                         <li className="content-list__item">
                             <h2 className="title-2">Skills</h2>
-                            <p>WordPress, HTML, CSS, SCSS, JavaScript, VueJS, PHP, Git, Redmine, Google Tag Manager, Google Apps Script, AtomicCSS
-</p>
+                            <p>WordPress, HTML, CSS, SCSS, JavaScript, VueJS, PHP, Git, Redmine, Google Tag Manager, Google Apps Script, AtomicCSS, BEM
+                            </p>
                         </li>
                         {/* <li className="content-list__item">
                             <h2 className="title-2">In learning</h2>

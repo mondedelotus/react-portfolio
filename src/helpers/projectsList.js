@@ -10,6 +10,12 @@ import project03Big from "./../img/projects/03-big.webp";
 import project04 from "./../img/projects/04.webp";
 import project04Big from "./../img/projects/04-big.webp";
 
+import project05 from "./../img/projects/05.webp";
+import project05Big from "./../img/projects/05-big.webp";
+
+import project06 from "./../img/projects/06.webp";
+import project06Big from "./../img/projects/06-big.webp";
+
 const projects = [
 	{
 		title: 'ContentAdore',
@@ -31,14 +37,31 @@ const projects = [
 		imgBig: project03Big,
 		skills: 'WordPress, PHP, Woocommerce, HTML, CSS, JS',
 		projectLink: 'https://buyselfiebooth.com/',
-	},
-	{
-		title: 'Porten landing (test project)',
-		img: project04,
-		imgBig: project04Big,
-		skills: 'HTML, SCSS',
-		projectLink: 'https://mondedelotus.github.io/spacelab-1-landing/',
-	},
+	}
 ];
 
-export {projects}
+const testProjects = [
+	{
+		title: 'Porten landing',
+		img: project04,
+		imgBig: project04Big,
+		skills: 'HTML, SCSS (with BEM), JS',
+		projectLink: 'https://mondedelotus.github.io/spacelab-1-landing/',
+	},
+	{
+		title: 'My team sample',
+		img: project05,
+		imgBig: project05Big,
+		skills: 'HTML, SCSS (with BEM)',
+		projectLink: 'https://mondedelotus.github.io/my-team-page/',
+	},
+	{
+		title: 'Interior consultant sample',
+		img: project06,
+		imgBig: project06Big,
+		skills: 'HTML, SCSS (with BEM), JS',
+		projectLink: 'https://mondedelotus.github.io/interior-consultant/',
+	},
+] 
+
+export {projects, testProjects}
