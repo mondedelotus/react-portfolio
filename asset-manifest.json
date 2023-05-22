@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.bdea5260.css",
-    "main.js": "/react-portfolio/static/js/main.af0e413e.js",
+    "main.js": "/react-portfolio/static/js/main.b62bdc5b.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/heat-sign-big.webp": "/react-portfolio/static/media/heat-sign-big.796c6368891f6205cad2.webp",
     "static/media/my-team-big.webp": "/react-portfolio/static/media/my-team-big.2f5dc24a7ed31611734d.webp",
@@ -25,11 +25,11 @@
     "static/media/linkedIn.svg": "/react-portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/react-portfolio/index.html",
     "main.bdea5260.css.map": "/react-portfolio/static/css/main.bdea5260.css.map",
-    "main.af0e413e.js.map": "/react-portfolio/static/js/main.af0e413e.js.map",
+    "main.b62bdc5b.js.map": "/react-portfolio/static/js/main.b62bdc5b.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdea5260.css",
-    "static/js/main.af0e413e.js"
+    "static/js/main.b62bdc5b.js"
   ]
 }
