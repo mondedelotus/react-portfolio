@@ -1,64 +1,88 @@
-import project01 from "./../img/projects/01.webp";
-import project01Big from "./../img/projects/01-big.webp";
+// REAL
+import ca from "./../img/projects/real/ca.webp";
+import caBig from "./../img/projects/real/ca-big.webp";
 
-import project02 from "./../img/projects/02.webp";
-import project02Big from "./../img/projects/02-big.webp";
+import heatsign from "./../img/projects/real/heat-sign.webp";
+import heatsignBig from "./../img/projects/real/heat-sign-big.webp";
 
-import project03 from "./../img/projects/03.webp";
-import project03Big from "./../img/projects/03-big.webp";
+import buyselfie from "./../img/projects/real/buyselfie.webp";
+import buyselfieBig from "./../img/projects/real/buyselfie-big.webp";
 
-import project04 from "./../img/projects/04.webp";
-import project04Big from "./../img/projects/04-big.webp";
+import selfiebooth from "./../img/projects/real/selfieboothco.webp";
+import selfieboothBig from "./../img/projects/real/selfieboothco-big.webp";
 
-import project05 from "./../img/projects/05.webp";
-import project05Big from "./../img/projects/05-big.webp";
+import nona from "./../img/projects/real/nonaphotographyca.webp";
+import nonaBig from "./../img/projects/real/nonaphotographyca-big.webp";
 
-import project06 from "./../img/projects/06.webp";
-import project06Big from "./../img/projects/06-big.webp";
+
+// TEST
+import porten from "./../img/projects/test/porten.webp";
+import portenBig from "./../img/projects/test/porten.webp";
+
+import myTeam from "./../img/projects/test/my-team.webp";
+import myTeamBig from "./../img/projects/test/my-team-big.webp";
+
+import interior from "./../img/projects/test/interior-cons.webp";
+import interiorBig from "./../img/projects/test/interior-cons-big.webp";
 
 const projects = [
 	{
 		title: 'ContentAdore',
 		skills: 'WordPress, PHP, VueJS (+ Vuetify), HTML, CSS (+ Bootstrap 4), JS',
-		img: project01,
-		imgBig: project01Big,
+		img: ca,
+		imgBig: caBig,
 		projectLink: 'https://contentadore.com/',
 	},
 	{
 		title: 'HeatSign',
-		img: project02,
-		imgBig: project02Big,
+		img: heatsign,
+		imgBig: heatsignBig,
 		skills: 'WordPress, PHP, Woocommerce, HTML, CSS',
 		projectLink: 'https://www.heatsign.com/',
 	},
 	{
 		title: 'BuyselfieBooth',
-		img: project03,
-		imgBig: project03Big,
+		img: buyselfie,
+		imgBig: buyselfieBig,
 		skills: 'WordPress, PHP, Woocommerce, HTML, CSS, JS',
 		projectLink: 'https://buyselfiebooth.com/',
-	}
+	},
+	{
+		title: 'SelfieBoothCo',
+		img: selfiebooth,
+		imgBig: selfieboothBig,
+		skills: 'WordPress, PHP, HTML, CSS, JS',
+		projectLink: 'https://selfieboothco.com/',
+	},
+	{
+		title: 'Nona Photography',
+		img: nona,
+		imgBig: nonaBig,
+		skills: 'WordPress, PHP, HTML, CSS, JS',
+		projectLink: 'https://nonaphotographyca.com/',
+	},
+
 ];
 
 const testProjects = [
 	{
 		title: 'Porten landing',
-		img: project04,
-		imgBig: project04Big,
+		img: porten,
+		imgBig: portenBig,
 		skills: 'HTML, SCSS (with BEM), JS',
 		projectLink: 'https://mondedelotus.github.io/spacelab-1-landing/',
 	},
 	{
 		title: 'My team sample',
-		img: project05,
-		imgBig: project05Big,
+		img: myTeam,
+		imgBig: myTeamBig,
 		skills: 'HTML, SCSS (with BEM)',
 		projectLink: 'https://mondedelotus.github.io/my-team-page/',
 	},
 	{
 		title: 'Interior consultant sample',
-		img: project06,
-		imgBig: project06Big,
+		img: interior,
+		imgBig: interiorBig,
 		skills: 'HTML, SCSS (with BEM), JS',
 		projectLink: 'https://mondedelotus.github.io/interior-consultant/',
 	},
