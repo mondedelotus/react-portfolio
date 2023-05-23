@@ -19,13 +19,13 @@ import nonaBig from "./../img/projects/real/nonaphotographyca-big.webp";
 import funiro from "./../img/projects/test/funiro.webp";
 import funiroBig from "./../img/projects/test/funiro-big.webp";
 
-import porten from "./../img/projects/test/porten.webp";
-import portenBig from "./../img/projects/test/porten.webp";
+import porten from "./../img/projects/test/porten-2.webp";
+import portenBig from "./../img/projects/test/porten-big.webp";
 
 // import myTeam from "./../img/projects/test/my-team.webp";
 // import myTeamBig from "./../img/projects/test/my-team-big.webp";
 
-import interior from "./../img/projects/test/interior-cons.webp";
+import interior from "./../img/projects/test/interior-cons-2.webp";
 import interiorBig from "./../img/projects/test/interior-cons-big.webp";
 
 const projects = [
