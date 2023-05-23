@@ -16,11 +16,14 @@ import nonaBig from "./../img/projects/real/nonaphotographyca-big.webp";
 
 
 // TEST
+import funiro from "./../img/projects/test/funiro.webp";
+import funiroBig from "./../img/projects/test/funiro-big.webp";
+
 import porten from "./../img/projects/test/porten.webp";
 import portenBig from "./../img/projects/test/porten.webp";
 
-import myTeam from "./../img/projects/test/my-team.webp";
-import myTeamBig from "./../img/projects/test/my-team-big.webp";
+// import myTeam from "./../img/projects/test/my-team.webp";
+// import myTeamBig from "./../img/projects/test/my-team-big.webp";
 
 import interior from "./../img/projects/test/interior-cons.webp";
 import interiorBig from "./../img/projects/test/interior-cons-big.webp";
@@ -66,19 +69,26 @@ const projects = [
 
 const testProjects = [
 	{
+		title: 'Funiro landing',
+		img: funiro,
+		imgBig: funiroBig,
+		skills: 'HTML, SCSS (with BEM), JS, Swiper, Lightgallery, Gulp',
+		projectLink: 'https://funiro-two.vercel.app/',
+	},
+	{
 		title: 'Porten landing',
 		img: porten,
 		imgBig: portenBig,
 		skills: 'HTML, SCSS (with BEM), JS',
 		projectLink: 'https://mondedelotus.github.io/spacelab-1-landing/',
 	},
-	{
-		title: 'My team sample',
-		img: myTeam,
-		imgBig: myTeamBig,
-		skills: 'HTML, SCSS (with BEM)',
-		projectLink: 'https://mondedelotus.github.io/my-team-page/',
-	},
+	// {
+	// 	title: 'My team sample',
+	// 	img: myTeam,
+	// 	imgBig: myTeamBig,
+	// 	skills: 'HTML, SCSS (with BEM)',
+	// 	projectLink: 'https://mondedelotus.github.io/my-team-page/',
+	// },
 	{
 		title: 'Interior consultant sample',
 		img: interior,
