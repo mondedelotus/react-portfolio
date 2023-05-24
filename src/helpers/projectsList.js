@@ -31,7 +31,7 @@ import interiorBig from "./../img/projects/test/interior-cons-big.webp";
 const projects = [
 	{
 		title: 'ContentAdore',
-		skills: 'WordPress, PHP, VueJS (+ Vuetify), HTML, CSS (+ Bootstrap 4), JS',
+		skills: 'WordPress, PHP, VueJS (+ Vuetify), HTML, CSS (+ Bootstrap 4), JS, Swiper',
 		img: ca,
 		imgBig: caBig,
 		projectLink: 'https://contentadore.com/',
@@ -79,7 +79,7 @@ const testProjects = [
 		title: 'Porten landing',
 		img: porten,
 		imgBig: portenBig,
-		skills: 'HTML, SCSS (with BEM), JS',
+		skills: 'HTML, SCSS (with BEM), JS, Swiper',
 		projectLink: 'https://mondedelotus.github.io/spacelab-1-landing/',
 	},
 	// {

@@ -11,7 +11,7 @@ const Home = () => {
                     <ul className="content-list">
                         <li className="content-list__item">
                             <h2 className="title-2">Skills</h2>
-                            <p>HTML/CSS/JS, SASS/SCSS, WordPress, Vue, PHP, Git, Redmine API, Emmet, Figma, Insomnia/Postman, Google Tag Manager, Google Apps Script, AtomicCSS, Open Server, VS Code, VMWare, Linux
+                            <p>HTML/CSS/JS, SCSS/LESS, WordPress, Vue, Vuetify, PHP, Git/GitHub, Redmine API, Emmet, Figma, Insomnia/Postman, Google Tag Manager, Google Apps Script, AtomicCSS, Open Server, VS Code, VMWare, Linux
                             </p>
                             <br></br>
                             <h3 className="title-3">applied only in test projects</h3>
