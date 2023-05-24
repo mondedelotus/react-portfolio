@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.bdea5260.css",
-    "main.js": "/react-portfolio/static/js/main.102d1fcb.js",
+    "main.css": "/react-portfolio/static/css/main.b60c2328.css",
+    "main.js": "/react-portfolio/static/js/main.3763d40a.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/porten-big.webp": "/react-portfolio/static/media/porten-big.1d7dad7f847b02f76f58.webp",
     "static/media/heat-sign-big.webp": "/react-portfolio/static/media/heat-sign-big.796c6368891f6205cad2.webp",
@@ -25,12 +25,12 @@
     "static/media/gitHub.svg": "/react-portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "static/media/linkedIn.svg": "/react-portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.bdea5260.css.map": "/react-portfolio/static/css/main.bdea5260.css.map",
-    "main.102d1fcb.js.map": "/react-portfolio/static/js/main.102d1fcb.js.map",
+    "main.b60c2328.css.map": "/react-portfolio/static/css/main.b60c2328.css.map",
+    "main.3763d40a.js.map": "/react-portfolio/static/js/main.3763d40a.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdea5260.css",
-    "static/js/main.102d1fcb.js"
+    "static/css/main.b60c2328.css",
+    "static/js/main.3763d40a.js"
   ]
 }
