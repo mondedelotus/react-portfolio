@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.b60c2328.css",
-    "main.js": "/react-portfolio/static/js/main.96339563.js",
+    "main.js": "/react-portfolio/static/js/main.9076afff.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/porten-big.webp": "/react-portfolio/static/media/porten-big.1d7dad7f847b02f76f58.webp",
     "static/media/heat-sign-big.webp": "/react-portfolio/static/media/heat-sign-big.796c6368891f6205cad2.webp",
     "static/media/ca-big.webp": "/react-portfolio/static/media/ca-big.e87885766f926bccf6cd.webp",
     "static/media/nonaphotographyca-big.webp": "/react-portfolio/static/media/nonaphotographyca-big.c311192780a746395f3f.webp",
     "static/media/funiro-big.webp": "/react-portfolio/static/media/funiro-big.bc7a8319b69f5326f348.webp",
+    "static/media/random-products-big.webp": "/react-portfolio/static/media/random-products-big.385b50527755f2fb558c.webp",
     "static/media/selfieboothco-big.webp": "/react-portfolio/static/media/selfieboothco-big.19ff73d8b3ffc382916d.webp",
     "static/media/buyselfie-big.webp": "/react-portfolio/static/media/buyselfie-big.c7feb964342596e129e9.webp",
     "static/media/header-bg.png": "/react-portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/heat-sign.webp": "/react-portfolio/static/media/heat-sign.2e26e2bc0cb2f4da8442.webp",
     "static/media/ca.webp": "/react-portfolio/static/media/ca.1ce74425a7f5e7457765.webp",
-    "static/media/porten-2.webp": "/react-portfolio/static/media/porten-2.5d1644004760fd8472b7.webp",
     "static/media/nonaphotographyca.webp": "/react-portfolio/static/media/nonaphotographyca.603e99efdbc3b4eb9ca7.webp",
     "static/media/task-manager-big.webp": "/react-portfolio/static/media/task-manager-big.fe7990af739a6393affa.webp",
     "static/media/funiro.webp": "/react-portfolio/static/media/funiro.92c41414d11481b4a898.webp",
     "static/media/selfieboothco.webp": "/react-portfolio/static/media/selfieboothco.37085812073a9b3ae3d6.webp",
+    "static/media/random-products.webp": "/react-portfolio/static/media/random-products.030b78e2f5b8384dd2ee.webp",
     "static/media/buyselfie.webp": "/react-portfolio/static/media/buyselfie.25f9912c96ff389eaf83.webp",
     "static/media/task-manager.webp": "/react-portfolio/static/media/task-manager.0384deb9e6bc795b6318.webp",
     "static/media/sun.svg": "/react-portfolio/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
@@ -26,11 +26,11 @@
     "static/media/linkedIn.svg": "/react-portfolio/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "index.html": "/react-portfolio/index.html",
     "main.b60c2328.css.map": "/react-portfolio/static/css/main.b60c2328.css.map",
-    "main.96339563.js.map": "/react-portfolio/static/js/main.96339563.js.map",
+    "main.9076afff.js.map": "/react-portfolio/static/js/main.9076afff.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b60c2328.css",
-    "static/js/main.96339563.js"
+    "static/js/main.9076afff.js"
   ]
 }
