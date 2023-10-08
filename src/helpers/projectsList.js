@@ -18,8 +18,8 @@ import nonaBig from "./../img/projects/real/nonaphotographyca-big.webp";
 import funiro from "./../img/projects/test/funiro.webp";
 import funiroBig from "./../img/projects/test/funiro-big.webp";
 
-import porten from "./../img/projects/test/porten-2.webp";
-import portenBig from "./../img/projects/test/porten-big.webp";
+// import porten from "./../img/projects/test/porten-2.webp";
+// import portenBig from "./../img/projects/test/porten-big.webp";
 
 // import myTeam from "./../img/projects/test/my-team.webp";
 // import myTeamBig from "./../img/projects/test/my-team-big.webp";
@@ -29,6 +29,9 @@ import portenBig from "./../img/projects/test/porten-big.webp";
 
 import taskManager from "./../img/projects/test/task-manager.webp";
 import taskManagerBig from "./../img/projects/test/task-manager-big.webp";
+
+import randomProducts from "./../img/projects/test/random-products.webp";
+import randomProductsBig from "./../img/projects/test/random-products-big.webp";
 
 const projects = [
     {
@@ -76,13 +79,13 @@ const testProjects = [
         skills: "HTML, SCSS (with BEM), JS, Swiper, Lightgallery, Gulp",
         projectLink: "https://funiro-two.vercel.app/",
     },
-    {
-        title: "Porten landing",
-        img: porten,
-        imgBig: portenBig,
-        skills: "HTML, SCSS (with BEM), JS, Swiper",
-        projectLink: "https://mondedelotus.github.io/spacelab-1-landing/",
-    },
+    // {
+    //     title: "Porten landing",
+    //     img: porten,
+    //     imgBig: portenBig,
+    //     skills: "HTML, SCSS (with BEM), JS, Swiper",
+    //     projectLink: "https://mondedelotus.github.io/spacelab-1-landing/",
+    // },
     // {
     // 	title: 'My team sample',
     // 	img: myTeam,
@@ -104,6 +107,13 @@ const testProjects = [
     //     skills: "HTML, SCSS (with BEM), JS",
     //     projectLink: "https://mondedelotus.github.io/interior-consultant/",
     // },
+    {
+        title: "Random Products WP Plugin",
+        img: randomProducts,
+        imgBig: randomProductsBig,
+        skills: "WordPress, WooCommerce",
+        projectLink: "https://github.com/mondedelotus/random-products",
+    },
 ];
 
 export { projects, testProjects };
