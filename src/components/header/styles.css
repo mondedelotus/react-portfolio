@@ -20,7 +20,28 @@
 
 .header__wrapper {
   padding: 0 15px;
-  max-width: 660px;
+  /* max-width: 660px; */
+  /* display: grid;
+  grid-template-columns: 3fr 2fr;
+  grid-auto-flow: row; */
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+@media (max-width:768px) {
+  .header__wrapper {
+    flex-direction: column-reverse;
+  }
+}
+
+.picture-part {
+  border: 2px dotted var(--accent);
+}
+
+.picture-part img {
+  padding: 10px;
+  /* max-width: 400px; */
 }
 
 .header__title {
