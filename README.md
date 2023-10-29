@@ -4,7 +4,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/mondedelotus/react-portfolio/blob/main/overview.webp)
+![screenshot](https://github.com/mondedelotus/react-portfolio/blob/master/overview.webp)
 
 ### Built With
 
