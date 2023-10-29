@@ -18,24 +18,46 @@ import nonaBig from "./../img/projects/real/nonaphotographyca-big.webp";
 import funiro from "./../img/projects/test/funiro.webp";
 import funiroBig from "./../img/projects/test/funiro-big.webp";
 
-// import porten from "./../img/projects/test/porten-2.webp";
-// import portenBig from "./../img/projects/test/porten-big.webp";
-
-// import myTeam from "./../img/projects/test/my-team.webp";
-// import myTeamBig from "./../img/projects/test/my-team-big.webp";
-
-// import interior from "./../img/projects/test/interior-cons-2.webp";
-// import interiorBig from "./../img/projects/test/interior-cons-big.webp";
-
 import taskManager from "./../img/projects/test/task-manager.webp";
 import taskManagerBig from "./../img/projects/test/task-manager-big.webp";
 
 import randomProducts from "./../img/projects/test/random-products.webp";
 import randomProductsBig from "./../img/projects/test/random-products-big.webp";
 
+function List(advances) {
+    const listItems = advances.map((item) => <li key={item.id}>{item.adv}</li>);
+    return <ul>{listItems}</ul>;
+}
+
 const projects = [
     {
         title: "ContentAdore",
+        adv: List([
+            {
+                id: 0,
+                adv: "Here I successfully implemented a bespoke design for the company's WordPress website, which garnered positive feedback from clients for its aesthetic appeal and user-friendly interface.",
+            },
+            {
+                id: 1,
+                adv: "Also I orchestrated the seamless integration of Redmine CRM with the website using API, streamlining lead processing and hiring procedures. This automation led to enhanced operational efficiency and a quicker response time to client inquiries.",
+            },
+            {
+                id: 2,
+                adv: "Strategically optimized website performance and load speed, resulting in a significant boost in search engine rankings through technical SEO enhancements. This not only improved user experience but also amplified the site's online visibility.",
+            },
+            {
+                id: 3,
+                adv: "Innovatively crafted a Vue.js-powered one-page price calculator application. This solution empowered clients to access instant pricing information, independent of website manager availability, thus expediting the decision-making process.",
+            },
+            {
+                id: 4,
+                adv: "Spearheaded the development and deployment of versatile chatbots across Telegram, Facebook, and the company's website, enabling seamless order placements and enhancing customer engagement.",
+            },
+            {
+                id: 5,
+                adv: "Developed a plugin for Google Docs that automated numerous processes, significantly reducing workflow duration by 2–3 times. This technical innovation expedited internal procedures and optimized resource utilization.",
+            },
+        ]),
         skills: "WordPress, PHP, VueJS (+ Vuetify), HTML, CSS (+ Bootstrap 4), JS, Swiper",
         img: ca,
         imgBig: caBig,
@@ -43,6 +65,16 @@ const projects = [
     },
     {
         title: "HeatSign",
+        adv: List([
+            {
+                id: 0,
+                adv: "Migrated an already completed website to the WooCommerce platform, realizing the layout of product pages and connecting all necessary payment systems.",
+            },
+            {
+                id: 1,
+                adv: "Performed deep optimization of site speed by not only optimizing style files and scripts, but also by disabling plugins only on certain pages.",
+            },
+        ]),
         img: heatsign,
         imgBig: heatsignBig,
         skills: "WordPress, PHP, Woocommerce, HTML, CSS",
@@ -50,6 +82,16 @@ const projects = [
     },
     {
         title: "BuyselfieBooth",
+        adv: List([
+            {
+                id: 0,
+                adv: "Transferred a pre-existing website to the WooCommerce platform, designed product page layouts, and integrated essential payment systems.",
+            },
+            {
+                id: 1,
+                adv: "Rebuild all pages on the website (switched to a completely new design), connected contact forms and HubSpot CRM.",
+            },
+        ]),
         img: buyselfie,
         imgBig: buyselfieBig,
         skills: "WordPress, PHP, Woocommerce, HTML, CSS, JS",
