@@ -99,6 +99,16 @@ const projects = [
     },
     {
         title: "SelfieBoothCo",
+        adv: List([
+            {
+                id: 0,
+                adv: "Changed the layout, brought it in line with the new design.",
+            },
+            {
+                id: 1,
+                adv: "Hired a new web developer for the project, participated as a senior developer-consultant.",
+            },
+        ]),
         img: selfiebooth,
         imgBig: selfieboothBig,
         skills: "WordPress, PHP, HTML, CSS, JS",
@@ -106,6 +116,20 @@ const projects = [
     },
     {
         title: "Nona Photography",
+        adv: List([
+            {
+                id: 0,
+                adv: "Made changes to pages using builder.",
+            },
+            {
+                id: 1,
+                adv: "Migrated site to AWS server, optimized site speed.",
+            },
+            {
+                id: 2,
+                adv: "Configured site security, builded site-map, added proper seo settings, connected analytics.",
+            },
+        ]),
         img: nona,
         imgBig: nonaBig,
         skills: "WordPress, PHP, HTML, CSS, JS",
