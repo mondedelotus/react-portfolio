@@ -1,22 +1,27 @@
 import Header from "./../components/header/header";
 
 const Home = () => {
-    return ( 
-      <>
-        <Header />
+    return (
+        <>
+            <Header />
 
-        <main className="section">
-            <div className="container">
-
+            <main className="section">
+                <div className="container">
                     <ul className="content-list">
                         <li className="content-list__item">
                             <h2 className="title-2">Skills</h2>
-                            <p>HTML/CSS/JS, SCSS/LESS, WordPress, Vue, Vuetify, PHP, Git/GitHub, Redmine API, Emmet, Figma, Insomnia/Postman, Google Tag Manager, Google Apps Script, AtomicCSS, Open Server, VS Code, VMWare, Linux
+                            <p>
+                                HTML/CSS/JS, SCSS/LESS, WordPress, Vue, Vuetify,
+                                PHP, Git/GitHub, Redmine API, Emmet, Figma,
+                                Insomnia/Postman, Google Tag Manager, Google
+                                Apps Script, AtomicCSS, Open Server, VS Code,
+                                VMWare, Linux
                             </p>
                             <br></br>
-                            <h3 className="title-3">applied only in test projects</h3>
-                            <p>React, Gulp, BEM
-                            </p>
+                            <h3 className="title-3">
+                                applied only in test projects
+                            </h3>
+                            <p>React, Gulp, BEM, Docker</p>
                         </li>
                         {/* <li className="content-list__item">
                             <h2 className="title-2">In learning</h2>
@@ -27,11 +32,10 @@ const Home = () => {
                             <p>NodeJS</p>
                         </li> */}
                     </ul>
+                </div>
+            </main>
+        </>
+    );
+};
 
-            </div>
-        </main>
-      </>
-   );
-}
- 
 export default Home;
