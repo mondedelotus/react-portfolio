@@ -14,6 +14,9 @@ import selfieboothBig from "./../img/projects/real/selfieboothco-big.webp";
 import nona from "./../img/projects/real/nonaphotographyca.webp";
 import nonaBig from "./../img/projects/real/nonaphotographyca-big.webp";
 
+import redmine from "./../img/projects/real/redmine.webp";
+import redmineBig from "./../img/projects/real/redmine-big.webp";
+
 // TEST
 import funiro from "./../img/projects/test/funiro.webp";
 import funiroBig from "./../img/projects/test/funiro-big.webp";
@@ -134,6 +137,23 @@ const projects = [
         imgBig: nonaBig,
         skills: "WordPress, PHP, HTML, CSS, JS",
         projectLink: "https://nonaphotographyca.com/",
+    },
+    {
+        title: "Redmine",
+        adv: List([
+            {
+                id: 0,
+                adv: "Redmine CRM was integrated with a WordPress website using API, which allowed to optimize the application processing and recruitment process for the ContentAdore digital marketing agency",
+            },
+            {
+                id: 1,
+                adv: "The interface was also improved by adding a style theme, changing some styles and adding js-animation.",
+            },
+        ]),
+        img: redmine,
+        imgBig: redmineBig,
+        skills: "HTML, CSS, JS, API",
+        projectLink: "https://www.redmine.org/",
     },
 ];
 
