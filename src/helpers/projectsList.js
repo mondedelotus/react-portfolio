@@ -143,7 +143,7 @@ const projects = [
         adv: List([
             {
                 id: 0,
-                adv: "Redmine CRM was integrated with a WordPress website using API, which allowed to optimize the application processing and recruitment process for the ContentAdore digital marketing agency",
+                adv: "Redmine CRM was integrated with a WordPress website using REST API, which allowed to optimize the application processing and recruitment process for the ContentAdore digital marketing agency.",
             },
             {
                 id: 1,
@@ -152,7 +152,7 @@ const projects = [
         ]),
         img: redmine,
         imgBig: redmineBig,
-        skills: "HTML, CSS, JS, API",
+        skills: "HTML, CSS, JS, REST API",
         projectLink: "https://www.redmine.org/",
     },
 ];
