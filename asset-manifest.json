@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.1d0b9afc.css",
-    "main.js": "/react-portfolio/static/js/main.01123b8b.js",
+    "main.js": "/react-portfolio/static/js/main.00e86608.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/heat-sign-big.webp": "/react-portfolio/static/media/heat-sign-big.796c6368891f6205cad2.webp",
     "static/media/ca-big.webp": "/react-portfolio/static/media/ca-big.e87885766f926bccf6cd.webp",
@@ -16,12 +16,14 @@
     "static/media/me.webp": "/react-portfolio/static/media/me.068003a9890e19c027c9.webp",
     "static/media/ca.webp": "/react-portfolio/static/media/ca.1ce74425a7f5e7457765.webp",
     "static/media/nonaphotographyca.webp": "/react-portfolio/static/media/nonaphotographyca.603e99efdbc3b4eb9ca7.webp",
+    "static/media/keywords-finder-big.webp": "/react-portfolio/static/media/keywords-finder-big.64e8425d7682314ca78f.webp",
     "static/media/task-manager-big.webp": "/react-portfolio/static/media/task-manager-big.fe7990af739a6393affa.webp",
     "static/media/funiro.webp": "/react-portfolio/static/media/funiro.92c41414d11481b4a898.webp",
     "static/media/selfieboothco.webp": "/react-portfolio/static/media/selfieboothco.37085812073a9b3ae3d6.webp",
     "static/media/random-products.webp": "/react-portfolio/static/media/random-products.030b78e2f5b8384dd2ee.webp",
     "static/media/buyselfie.webp": "/react-portfolio/static/media/buyselfie.25f9912c96ff389eaf83.webp",
     "static/media/task-manager.webp": "/react-portfolio/static/media/task-manager.0384deb9e6bc795b6318.webp",
+    "static/media/keywords-finder.webp": "/react-portfolio/static/media/keywords-finder.98ae2fd7783084736524.webp",
     "static/media/redmine.webp": "/react-portfolio/static/media/redmine.6393b556c950a9766ce0.webp",
     "static/media/sun.svg": "/react-portfolio/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
     "static/media/moon.svg": "/react-portfolio/static/media/moon.312bed9230c94183d589bcc499993093.svg",
@@ -29,11 +31,11 @@
     "static/media/linkedIn.svg": "/react-portfolio/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "index.html": "/react-portfolio/index.html",
     "main.1d0b9afc.css.map": "/react-portfolio/static/css/main.1d0b9afc.css.map",
-    "main.01123b8b.js.map": "/react-portfolio/static/js/main.01123b8b.js.map",
+    "main.00e86608.js.map": "/react-portfolio/static/js/main.00e86608.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d0b9afc.css",
-    "static/js/main.01123b8b.js"
+    "static/js/main.00e86608.js"
   ]
 }
