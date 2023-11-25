@@ -14,6 +14,9 @@ import selfieboothBig from "./../img/projects/real/selfieboothco-big.webp";
 import nona from "./../img/projects/real/nonaphotographyca.webp";
 import nonaBig from "./../img/projects/real/nonaphotographyca-big.webp";
 
+import kwFinder from "./../img/projects/real/keywords-finder.webp";
+import kwFinderBig from "./../img/projects/real/keywords-finder-big.webp";
+
 import redmine from "./../img/projects/real/redmine.webp";
 import redmineBig from "./../img/projects/real/redmine-big.webp";
 
@@ -137,6 +140,20 @@ const projects = [
         imgBig: nonaBig,
         skills: "WordPress, PHP, HTML, CSS, JS",
         projectLink: "https://nonaphotographyca.com/",
+    },
+    {
+        title: "Keywords Finder Google Doc Plugin",
+        adv: List([
+            {
+                id: 0,
+                adv: "It's a plugin for google doc that counts keywords in text and does a few other things - formatting, highlighting and removing blank lines",
+            },
+        ]),
+        img: kwFinder,
+        imgBig: kwFinderBig,
+        skills: "Google App Script, HTML, CSS, JS, JQuery",
+        projectLink:
+            "https://github.com/mondedelotus/Keywords-finder-google-doc-plugin",
     },
     {
         title: "Redmine",
